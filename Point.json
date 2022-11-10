@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 18, "Name": "High-tech Park Station" }, "geometry": { "type": "Point", "coordinates": [ 106.788893012009069, 10.859051692023142 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 19, "Name": "Suoi Tien Park Station" }, "geometry": { "type": "Point", "coordinates": [ 106.80115364710268, 10.866330320525744 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 21, "Name": "Long Binh Depot" }, "geometry": { "type": "Point", "coordinates": [ 106.819636640250721, 10.880038639981432 ] } }
+]
+}
